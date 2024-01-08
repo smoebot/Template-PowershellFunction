@@ -4,16 +4,16 @@ function [function_name] {
         Overview
     .DESCRIPTION
         Brief description
-    .PARAMETER Name
-        Descripe the parameter
-    .PARAMETER Name2
-        Descripe the parameter
+    .PARAMETER ParameterName
+        Describe the parameter
+    .PARAMETER ParameterName2
+        Describe the parameter
     .NOTES
         Author: [Author name]
         v0.1 - (2020-03-05) Initial version
         v0.2 - (2020-07-30) Added Something (contributor)
     .EXAMPLE
-        function_name -Name theName
+        function_name -ParameterName Parameter
     #>
 
     #requires -version 5
